@@ -11,6 +11,8 @@ node_modules
 /_python_build
 *.pyc
 __pycache__
+.mypy_cache
+.ccls-cache
 *.swp
 .vscode/
 cmake_build/
